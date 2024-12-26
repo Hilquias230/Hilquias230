@@ -1,16 +1,15 @@
-## Hi there 👋
+# 👋 Olá, me chamo Hilquias👋
 
-<!--
-**Hilquias230/Hilquias230** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 Eu estou estudando: Python
+- ⚡ Fun fact: Gosto de jogos e assitir algo no tempo livre
 
-Here are some ideas to get you started:
+<div>
+  <img height = 200px src = https://github-readme-stats.vercel.app/api?username=Hilquias230&theme=blue-green&show_icons=true> 
+  <img height = 200px src = https://github-readme-stats.vercel.app/api/top-langs/?username=Hilquias230&layout=donut&theme=blue-green&show https://github.com/anuraghazra/github-   readme-stats>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##
+
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css">
+</div>
