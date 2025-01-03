@@ -1,7 +1,7 @@
 # 👋 Olá, me chamo Hilquias👋
 
 - 🌱 Eu estou estudando: Python e PHP
-- 🍕 Tempo livre: Jogar de videogame, assitir filmes e séries e malhar
+- 🍕 Tempo livre: Jogar jogos de videogame, assitir filmes e séries e malhar
 
 <div>
   <img height = 200px src = https://github-readme-stats.vercel.app/api?username=Hilquias230&theme=blue-green&show_icons=true> 
