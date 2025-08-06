@@ -1,7 +1,8 @@
 # 👋 Olá, me chamo Hilquias👋
 
-- 🌱 Eu estou estudando: Python e PHP
-- 🍕 Tempo livre: Jogar jogos de videogame, assitir filmes e séries e malhar
+- 💻 Apaixonado por tecnologia 💻
+- 🚀 Explorando o mundo da programação 🚀
+- 👾 Geek & Nerd com orgulho 👾
 
 <div>
   <img height = 200px src = https://github-readme-stats.vercel.app/api?username=Hilquias230&theme=blue-green&show_icons=true> 
@@ -14,7 +15,9 @@
   <img height = 40px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
   <img height = 40px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
   <img height = 40px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-  <img height = 40px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
+  <img height = 40px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+          
+  
           
 </div>
 
