@@ -46,11 +46,12 @@ profissional.
 <div>
   <img 
     height = 200px
-    src="https://github-readme-stats-sigma-five.vercel.app/api?username=Hilquias230&show_icons=true&theme=merko&include_all_commits=true&locale=pt-br&cache_seconds=86400"
-    /> 
+    src="https://github-stats-extended.vercel.app/api?username=Hilquias230&theme=dark_github"
+    />
+  <br>
   <img 
     height = 200px
-    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Hilquias230&theme=merko&layout=compact&custom_title=Tecnologias&langs_count=9&cache_seconds=86400"
+    src="https://github-stats-extended.vercel.app/api/top-langs?username=Hilquias230&layout=donut&theme=dark_github"
     />
 </div>
 
